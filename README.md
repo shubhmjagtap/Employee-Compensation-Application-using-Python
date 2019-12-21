@@ -1,4 +1,4 @@
-# Employee-Compesation-Application-using-Python
+# Employee-Compensation-Application-using-Python
 
 This application takes input of Employee data such as Name, Address, Employee Type, Employee Hourly Work, Car model, Car year, Car Price.
 
